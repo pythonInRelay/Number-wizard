@@ -1,6 +1,8 @@
 # Number-wizard
 
-### This is the first project I made in C# and Unity, which took me about 15 minutes total.
+### This is the first project I made in C# and Unity, which took me about 15 minutes total
+
+__________________________________________
 
 #### Instructions:
 
