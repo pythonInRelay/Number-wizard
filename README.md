@@ -5,7 +5,7 @@ _________________________
 *NB! If you are viewing these respositories as a means to assess my skills, please also see my latest projects.*
 _________________________
 
-This is the first project I made in C# and Unity
+This is the first project using Unity and written in C#.
 
 **Time taken to completion: 15-20 minutes**
 __________________________________________
