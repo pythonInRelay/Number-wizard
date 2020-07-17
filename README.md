@@ -5,7 +5,7 @@ _________________________
 *NB! If you are viewing these respositories as a means to assess my skills, please also see my latest projects.*
 _________________________
 
-This is the first project using Unity and written in C#.
+A simple guessing game where the computer attempts to guess the player's chosen number as quickly as possible.
 
 **Time taken to completion: 15-20 minutes**
 __________________________________________
