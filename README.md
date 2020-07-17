@@ -18,7 +18,7 @@ __________________________________________
 * Methods
 
 
-#### Instructions:
+## Instructions:
 
 1. Use the **UP** or **DOWN** keys to have the computer guess your number between 1 and 1000.
 2. When the computer is correct, press **ENTER/RETURN** and you will be told how many guesses it took to find your number.
