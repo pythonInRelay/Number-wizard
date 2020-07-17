@@ -10,6 +10,14 @@ This is the first project using Unity and written in C#.
 **Time taken to completion: 15-20 minutes**
 __________________________________________
 
+## Unity features used:
+
+* [SerializeField]
+* Debug.Log
+* if/else
+* Methods
+
+
 #### Instructions:
 
 1. Use the **UP** or **DOWN** keys to have the computer guess your number between 1 and 1000.
