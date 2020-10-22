@@ -2,7 +2,7 @@
 
 _________________________
 
-*NB! If you are viewing these respositories as a means to assess my skills, please also see my latest projects.*
+*NB! If you are viewing these repositories as a means to assess my skills, please also see my latest projects.*
 _________________________
 
 A simple guessing game where the computer attempts to guess the player's chosen number as quickly as possible.
